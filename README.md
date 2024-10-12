@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PapiScripts
-- 👀 I’m interested in programming and FTC Robotics Competitions
-- 🌱 I’m currently learning C++ and Java for FTC
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on Discord
-- 📫 You can reach me on Discord ( Papi#0004 ) or Instagram
+- 📫 You can reach me on Discord ( papiscripts ) or Instagram ( @stemate_alex )
 
 <!---
 PapiScripts/PapiScripts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
