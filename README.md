@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @PapiScripts
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on Discord
 - 📫 You can reach me on Discord ( papiscripts ) or Instagram ( @stemate_alex )
 
 <!---
